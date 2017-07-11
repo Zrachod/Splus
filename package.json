@@ -1,0 +1,27 @@
+{
+    "name": "splus-theme",
+    "version": "0.1.5",
+    "publisher": "zrachod",
+    "engines": {
+        "vscode": "*"
+    },
+    "displayName": "Splus",
+    "description": "Design for C#",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Splus",
+        "Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Splus - Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/splus-dark-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png"
+}
