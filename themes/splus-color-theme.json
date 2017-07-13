@@ -23,8 +23,8 @@
 		"input.foreground": "#EEE",
 		"input.placeholderForeground": "#EEE",
 		"inputOption.activeBorder": "#83C2EF",
-		"inputValidation.errorBackground": "#F95980",
-		"inputValidation.errorBorder": "#F95980",
+		"inputValidation.errorBackground": "#f74570",
+		"inputValidation.errorBorder": "#f74570",
 		"inputValidation.infoBackground": "#83C2EF",
 		"inputValidation.infoBorder": "#83C2EF",
 		"inputValidation.warningBackground": "#49C9A4",
@@ -43,8 +43,8 @@
 		"list.activeSelectionBackground": "#15181B",
 		"list.activeSelectionForeground": "#EEE",
 		"list.dropBackground": "#15181B",
-		"list.focusBackground": "#15181B",
-		"list.highlightForeground": "#83C2EF",
+		"list.focusBackground": "#83C2EF12",
+		"list.highlightForeground": "#5AA0F0",
 		"list.hoverBackground": "#83C2EF12",
 		"list.inactiveSelectionBackground": "#15181B",
 		"list.inactiveSelectionForeground": "#EEE",
@@ -55,7 +55,7 @@
 		"activityBar.dropBackground": "#15181B",
 		"activityBar.foreground": "#EEE",
 		//"activityBar.border": "#ff0000",
-		"activityBarBadge.background": "#83C2EF",
+		"activityBarBadge.background": "#5AA0F0",
 		"activityBarBadge.foreground": "#EEE",
 		/* side bar */
 		"sideBar.background": "#1B1E21",
@@ -75,7 +75,7 @@
 		"tab.activeForeground": "#EEE",
 		"tab.border": "#15181B",
 		"tab.inactiveBackground": "#15181B",
-		"tab.inactiveForeground": "#EEE",
+		"tab.inactiveForeground": "#777",
 		"tab.unfocusedActiveForeground": "#EEE",
 		"tab.unfocusedInactiveForeground": "#EEE",
 		/* editor colors */
@@ -107,9 +107,9 @@
 		// overview ruler
 		"editorOverviewRuler.border": "#1E2124",
 		// errors and warnings
-		"editorError.foreground": "#F95980",
+		"editorError.foreground": "#f74570",
 		//"editorError.border": "#ff0000",
-		"editorWarning.foreground": "#49C9A4",
+		"editorWarning.foreground": "#27bc91",
 		//"editorWarning.border": "#ff0000",
 		// gutter
 		"editorGutter.background": "#1E2124",
@@ -187,7 +187,7 @@
 		/* extensions */
 		"extensionButton.prominentForeground": "#eee",
 		"extensionButton.prominentBackground": "#5AA0F0",
-		"extensionButton.prominentHoverBackground": "#83C2EF",
+		"extensionButton.prominentHoverBackground": "#5AA0F0",
 		/* quick picker */
 		"pickerGroup.border": "#83C2EF",
 		"pickerGroup.foreground": "#83C2EF",
