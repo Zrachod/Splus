@@ -228,81 +228,81 @@
 	},
 	"tokenColors": [
 		{
-			"name": "Comment",
 			"scope": "comment",
 			"settings": {
 				"foreground": "#54575A"
 			}
 		},
 		{
-			"name": "String",
-			"scope": "string.quoted.double.cs",
+			"scope": "string",
 			"settings": {
 				"foreground": "#FFED87"
 			}
 		},
 		{
-			"name": "JSON String",
 			"scope": "string.quoted.double.json",
 			"settings": {
 				"foreground": "#EEE"
 			}
 		},
 		{
-			"name": "Number",
-			"scope": "constant.numeric",
+			"scope": "constant.numeric,constant.language,constant.character, constant.other",
 			"settings": {
 				"foreground": "#BA94FF"
 			}
 		},
 		{
-			"name": "Built-in constant",
-			"scope": "constant.language",
-			"settings": {
-				"foreground": "#BA94FF"
-			}
-		},
-		{
-			"name": "User-defined constant",
-			"scope": "constant.character, constant.other",
-			"settings": {
-				"foreground": "#BA94FF"
-			}
-		},
-		{
-			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
 				"foreground": "#F95980"
 			}
 		},
 		{
-			"name": "Storage",
 			"scope": "storage",
 			"settings": {
 				"foreground": "#F9A459"
 			}
 		},
 		{
-			"name": "Storage type",
-			"scope": "storage.type,support.type.property-name.json",
+			"scope": "storage.type,support.type.property-name",
 			"settings": {
 				"foreground": "#83C2EF"
 			}
 		},
 		{
-			"name": "Class name",
-			"scope": "entity.name.type, entity.name.class, entity.other.inherited-class",
+			"scope": "entity.name.type, entity.name.class, entity.other.inherited-class,entity.other.attribute-name,entity.name.function",
 			"settings": {
 				"foreground": "#49C9A4"
 			}
 		},
 		{
-			"name": "Function name",
-			"scope": "entity.name.function",
+			"scope": "support.class.js,support.function.mysql.php,support.function.js,support.type.vendored.property-name.css,support.function.gradient.css,support.function.string.php,support.constant.math.js,support.function.math.js",
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#49C9A4"
+				"foreground": "#83C2EF"
+			}
+		},
+		{
+			"scope": "variable.parameter.url.css,punctuation.definition.string",
+			"settings": {
+				"foreground": "#FFED87"
+			}
+		},
+		{
+			"scope": "entity.name.tag,punctuation.definition.tag,punctuation.section.embedded",
+			"settings": {
+				"foreground": "#F95980"
+			}
+		},
+		{
+			"scope": "variable.parameter.js,variable.language.this.js,variable.language.arguments.js",
+			"settings": {
+				"foreground": "#F9A459"
+			}
+		},
+		{
+			"scope": "support.constant.property-value.css,support.function.misc.css,support.function.url.css",
+			"settings": {
+				"foreground": "#ff94ef"
 			}
 		}
 	]
