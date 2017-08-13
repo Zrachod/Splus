@@ -1,12 +1,12 @@
 {
     "name": "splus-theme",
-    "version": "0.1.6",
+    "version": "0.1.8",
     "publisher": "zrachod",
     "engines": {
         "vscode": "*"
     },
     "displayName": "Splus",
-    "description": "Design for C#",
+    "description": "Design for All",
     "categories": [
         "Themes"
     ],

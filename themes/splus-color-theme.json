@@ -194,9 +194,9 @@
 		/* integrated terminal colors */
 		"terminal.background": "#15181B",
 		"terminal.foreground": "#eee",
-		"terminal.ansiBlack": "#000",
-		"terminal.ansiBlue": "#83C2EF",
-		"terminal.ansiBrightBlack": "#000",
+		"terminal.ansiBlack": "#888",
+		"terminal.ansiBlue": "#5AA0F0",
+		"terminal.ansiBrightBlack": "#888",
 		"terminal.ansiBrightBlue": "#83C2EF",
 		"terminal.ansiBrightCyan": "#49c9a4",
 		"terminal.ansiBrightGreen": "#7cdd8a",
@@ -234,13 +234,13 @@
 			}
 		},
 		{
-			"scope": "string",
+			"scope": "string.quoted.double,string.quoted.single",
 			"settings": {
 				"foreground": "#FFED87"
 			}
 		},
 		{
-			"scope": "string.quoted.double.json",
+			"scope": "string.quoted.double.json,punctuation.definition.string.begin.json,punctuation.definition.string.end.json,punctuation.definition.string.begin.markdown,punctuation.definition.string.end.markdown",
 			"settings": {
 				"foreground": "#EEE"
 			}
