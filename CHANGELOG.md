@@ -1,3 +1,6 @@
+## 0.1.9 - 0.1.10 (2017-09-29)
+* fix debug toolbar background color.
+
 ## 0.1.8 (2017-08-13)
 * fix terminal black color.
 
