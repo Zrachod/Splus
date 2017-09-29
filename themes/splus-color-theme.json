@@ -211,7 +211,7 @@
 		"terminal.ansiWhite": "#eee",
 		"terminal.ansiYellow": "#fbe046",
 		/* debug */
-		"debugToolBar.background": "#00ff00",
+		"debugToolBar.background": "#15181B",
 		/* welcome page */
 		"welcomePage.buttonBackground": "#181B1E",
 		"welcomePage.buttonHoverBackground": "#121518",
