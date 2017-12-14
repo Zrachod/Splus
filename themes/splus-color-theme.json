@@ -224,7 +224,13 @@
 		"textCodeBlock.background": "#ff0000",
 		"textLink.activeForeground": "#eee",
 		"textPreformat.foreground": "#ff0000",
-		"textSeparator.foreground": "#ff0000"
+		"textSeparator.foreground": "#ff0000",
+		/* git */
+		"gitDecoration.conflictingResourceForeground": "#BA94FF",
+		"gitDecoration.deletedResourceForeground": "#F95980",
+		"gitDecoration.ignoredResourceForeground": "#83C2EF",
+		"gitDecoration.modifiedResourceForeground": "#FFED87",
+		"gitDecoration.untrackedResourceForeground": "#7cdd8a"
 	},
 	"tokenColors": [
 		{

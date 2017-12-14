@@ -1,5 +1,8 @@
+## 0.1.12 (2017-12-14)
+* add git color.
+
 ## 0.1.11 (2017-11-09)
-* fix `editorSuggestWidget.highlightForeground`
+* fix `editorSuggestWidget.highlightForeground`.
 
 ## 0.1.9 - 0.1.10 (2017-09-29)
 * fix debug toolbar background color.
