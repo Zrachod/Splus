@@ -1,3 +1,8 @@
+## 0.1.13 - 0.1.14 (2018-06-10)
+* remove old notification color.
+* fix `statusBarItem.prominent`.
+* fix `textBlockQuote`.
+
 ## 0.1.12 (2017-12-14)
 * add git color.
 

@@ -173,8 +173,8 @@
 		"statusBar.noFolderBackground": "#15181B",
 		"statusBarItem.activeBackground": "#36393C",
 		"statusBarItem.hoverBackground": "#36393C",
-		"statusBarItem.prominentBackground": "#00ff00",
-		"statusBarItem.prominentHoverBackground": "#FF0000",
+		"statusBarItem.prominentBackground": "#36393C",
+		"statusBarItem.prominentHoverBackground": "#83C2EF",
 		//"statusBar.border": "#ff0000",
 		/* title bar colors (macOS) */
 		//"titleBar.activeBackground": "#FF0000",
@@ -182,8 +182,6 @@
 		//"titleBar.inactiveBackground": "#FF0000",
 		//"titleBar.inactiveForeground": "#FF0000",
 		/* notification dialog colors */
-		"notification.background": "#15181B",
-		"notification.foreground": "#eee",
 		/* extensions */
 		"extensionButton.prominentForeground": "#eee",
 		"extensionButton.prominentBackground": "#5AA0F0",
@@ -219,12 +217,12 @@
 		/* text */
 		"textLink.foreground": "#83C2EF",
 		"descriptionForeground": "#888",
-		"textBlockQuote.background": "#ff0000",
-		"textBlockQuote.border": "#ff0000",
-		"textCodeBlock.background": "#ff0000",
+		"textBlockQuote.background": "#888",
+		"textBlockQuote.border": "#888",
+		"textCodeBlock.background": "#888",
 		"textLink.activeForeground": "#eee",
-		"textPreformat.foreground": "#ff0000",
-		"textSeparator.foreground": "#ff0000",
+		"textPreformat.foreground": "#888",
+		"textSeparator.foreground": "#888",
 		/* git */
 		"gitDecoration.conflictingResourceForeground": "#BA94FF",
 		"gitDecoration.deletedResourceForeground": "#F95980",
