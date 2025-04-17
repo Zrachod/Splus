@@ -1,0 +1,40 @@
+{
+    "name": "splus-theme",
+    "version": "0.1.12",
+    "publisher": "zrachod",
+    "engines": {
+        "vscode": "*"
+    },
+    "displayName": "Splus",
+    "description": "Design for All",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Splus",
+        "Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Splus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/splus-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1E2124",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/Zrachod/Splus/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/Zrachod/Splus/issues",
+        "email": "zrachod@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Zrachod/Splus"
+    }
+}
