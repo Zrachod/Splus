@@ -60,7 +60,7 @@
 		//"list.inactiveFocusOutline": "#ff0000",
 		"list.inactiveSelectionIconForeground": "#EEEEEE",
 		"list.invalidItemForeground": "#ff0000",
-		"list.warningForeground": "#ff0000",
+		"list.warningForeground": "#FFED87",
 		/* activity bar */
 		"activityBar.background": "#17191D",
 		"activityBar.foreground": "#EEEEEE",
@@ -203,11 +203,12 @@
 		"statusBarItem.remoteBackground": "#15181B",
 		"statusBarItem.remoteForeground": "#606A74",
 		/* title bar colors (macOS) */
-		"titleBar.activeBackground": "#1A1C20",
+		"titleBar.activeBackground": "#15181B",
 		"titleBar.activeForeground": "#EEEEEE",
 		"titleBar.inactiveBackground": "#1A1C20",
 		"titleBar.inactiveForeground": "#EEEEEE",
-		"quickInputTitle.background": "#ff0000",
+		"titleBar.border": "#FFFFFF10",
+		"quickInputTitle.background": "#1A1C20",
 		/* notification dialog colors */
 		/* extensions */
 		"extensionButton.prominentForeground": "#ffffff",
